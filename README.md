@@ -2,11 +2,11 @@
 
 A simple demo project.
 
-## Fetures
+## Features
 
 - Fast setup
 - Easy to use
-- Ligthweight
+- Lightweight
 
 ## Usage
 
